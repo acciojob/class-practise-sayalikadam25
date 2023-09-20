@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+p:nth-child(even){
+	color: #00F;
+	background-color:#eee;
+	font-family: arial;
+	font-size: 20px;	
+}
